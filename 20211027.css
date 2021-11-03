@@ -1,6 +1,17 @@
-*{
-    margin:0px;
+* {
+    margin: 0;
     padding: 0;
     list-style: none;
     box-sizing: border-box;
+}
+
+.img-start {
+    border: 5px solid khaki;
+    height: 600px;
+    width: 600px;
+}
+
+.img-button {
+    height: 150px;
+    width: 600px;
 }
