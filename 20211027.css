@@ -15,3 +15,19 @@
     height: 150px;
     width: 600px;
 }
+
+#img-master {
+    border: 5px solid lightblue;
+}
+
+.relative {
+    background: khaki;
+    height: 500px;
+    width: 500px;
+}
+
+.absolute {
+    background: lightblue;
+    height: 100px;
+    width: 100px;
+}
